@@ -75,7 +75,7 @@ div>a {
     color: white;
     padding-top: 10px;
 }
- 
+
 .btn {
     background-color: #F76861;
     width: 161px;
@@ -135,4 +135,55 @@ i.fas {
     width: 340px;
     height: 345px;
     background-color: white;
+}
+
+.last-image {
+    margin: 100px 245px;
+    position: relative;
+}
+
+.first-txt {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    font-size: 65px;
+    color: white;
+}
+
+.second-txt {
+    position: absolute;
+    bottom: 65px;
+    left: 650px;
+    color: white;
+    padding: 17px 25px;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 7px;
+    background-color: #F86961;
+}
+
+#information {
+    display: block;
+    width: 480px;
+    height: 250px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#image {
+    width: 38px;
+    padding: 0 13px;
+}
+
+h4 {
+    font-family: bebas neue;
+    font-size: 25px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.mail {
+    font-size: 35px;
+    text-align: center;
+    opacity: 0.7;
 }
